@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\q1552\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\q1552\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Sensor.-2068854354.00" t="ExcludeRecursive" />
+    <e p="F:\Sensor" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Sensor.sln" t="IncludeFlat" />
+      <e p="Sensor2Serial" t="IncludeRecursive">
+        <e p="app.manifest" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Sensor2Serial.csproj" t="IncludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>

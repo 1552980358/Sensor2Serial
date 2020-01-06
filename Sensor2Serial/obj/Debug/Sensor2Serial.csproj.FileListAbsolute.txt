@@ -1,0 +1,7 @@
+F:\Sensor\Sensor2Serial\bin\Debug\Sensor2Serial.exe
+F:\Sensor\Sensor2Serial\bin\Debug\Sensor2Serial.pdb
+F:\Sensor\Sensor2Serial\bin\Debug\OpenHardwareMonitorLib.dll
+F:\Sensor\Sensor2Serial\obj\Debug\Sensor2Serial.csprojAssemblyReference.cache
+F:\Sensor\Sensor2Serial\obj\Debug\Sensor2Serial.csproj.CopyComplete
+F:\Sensor\Sensor2Serial\obj\Debug\Sensor2Serial.exe
+F:\Sensor\Sensor2Serial\obj\Debug\Sensor2Serial.pdb
