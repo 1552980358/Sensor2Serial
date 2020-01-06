@@ -54,9 +54,10 @@ namespace Sensor
         
         public static void Main()
         {
+            var visitor = new Visitor();
             var computer = new Computer {CPUEnabled = true, RAMEnabled = true, GPUEnabled = true, HDDEnabled = true};
             computer.Open();
-            computer.Accept(new Visitor());
+            computer.Accept(visitor);
 
             // 分类
             for (var i = 0; i < computer.Hardware.Length; i++)
@@ -165,7 +166,7 @@ namespace Sensor
             {
                 computer = new Computer {CPUEnabled = true, RAMEnabled = true, GPUEnabled = true, HDDEnabled = true};
                 computer.Open();
-                computer.Accept(new Visitor());
+                computer.Accept(visitor);
 
                 MsgBuilder.Builder().Open();
                 
